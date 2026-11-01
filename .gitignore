@@ -1,0 +1,48 @@
+# Python environments
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.pyc
+
+# Mac and Jupyter temporary files
+.DS_Store
+.ipynb_checkpoints/
+
+# Duplicate project folders
+bridge-deterioration-share/
+notebooks/
+
+# Archived experiments
+bridge_time_primary_notebooks/archive/
+
+# ZIP archives
+*.zip
+
+# Large datasets
+data/raw/
+data/processed/
+*.parquet
+
+# Temporary files
+*.log
+# Large prediction outputs
+results/*predictions*.csv
+results/model_predictions_template.csv
+results/time_*.csv
+results/weibull_median_remaining_years.csv
+
+# Include final ENGG2112 notebooks
+!bridge_time_primary_notebooks/notebooks/
+!bridge_time_primary_notebooks/notebooks/*.ipynb
+
+# Include cleaned and final survival datasets
+!data/
+!data/processed/
+!data/processed/*.parquet
+!data/final/
+!data/final/*.parquet
+
+# Exclude duplicate notebooks
+bridge_time_primary_notebooks/notebooks/final notebooks/
+output.png

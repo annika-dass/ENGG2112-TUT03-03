@@ -1,0 +1,6 @@
+characteristic,groups,RSF vs training KM,RSF vs test events rate,training KM vs test events rate,highest risk: training KM,highest risk: test events,highest risk: RSF
+Bridge age,4,1.0,0.7999999999999999,0.7999999999999999,Over 60 years,41-60 years,Over 60 years
+Traffic volume,4,0.7999999999999999,0.7999999999999999,0.6000000000000001,"Over 20,000","5,001-20,000","Over 20,000"
+Bridge length,4,1.0,0.7999999999999999,0.7999999999999999,Over 100 m,Over 100 m,Over 100 m
+Construction material,4,0.7999999999999999,0.7999999999999999,1.0,Timber,Timber,Timber
+Structural type,5,0.3,-0.39999999999999997,0.6,04,01,05

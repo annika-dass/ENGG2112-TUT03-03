@@ -1,0 +1,2 @@
+model,metric,c_index,test_samples,median_remaining_years_estimable
+Multivariable Cox PH,full_test_hazard_ranking_c_index,0.5922930086662186,171766,45961

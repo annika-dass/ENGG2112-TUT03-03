@@ -1,0 +1,2 @@
+model,metric,test_cindex,bridges_evaluated,observed_events,median_estimable,median_unavailable,max_training_time_support,note
+Random Survival Forest,full_test_hazard_ranking_cindex,0.6116297259093226,171766,22396,50669,121097,28.0,Conventional full-test ranking diagnostic; not censoring-aware accuracy of remaining years or staggered-entry adjusted.

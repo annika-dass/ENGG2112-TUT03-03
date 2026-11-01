@@ -1,0 +1,2 @@
+model,training_c_index,testing_c_index,weibull_shape,training_samples,testing_samples
+Weibull AFT,0.676073930107751,0.6297067922330605,1.1944805247050931,498875,171766

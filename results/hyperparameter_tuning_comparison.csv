@@ -1,0 +1,6 @@
+model,validation_cindex
+RSF (flexible),0.6541489734727199
+RSF (original),0.6533668878062089
+Weibull AFT,0.6417441662068626
+RSF (conservative),0.6414702356479821
+Multivariable Cox,0.6297458180041385

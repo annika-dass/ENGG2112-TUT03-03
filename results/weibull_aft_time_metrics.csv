@@ -1,0 +1,2 @@
+model,train_records,test_records_evaluated,test_events,training_c_index,full_test_c_index_remaining_years,full_test_c_index_weibull_scale,median_year_predictions_available,predictions_beyond_training_event_support,last_training_event_duration
+Weibull AFT,498875,171766,22396,0.676073930107751,0.6090720032287912,0.5922145317330424,171766,120138,28.0

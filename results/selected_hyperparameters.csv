@@ -1,0 +1,4 @@
+model,selected_penalizer,validation_cindex,n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,max_samples
+Multivariable Cox,0.1,0.6297458180041385,,,,,,
+Weibull AFT,0.1,0.6417441662068626,,,,,,
+Random Survival Forest,,0.6541489734727199,50.0,16.0,100.0,25.0,sqrt,0.5

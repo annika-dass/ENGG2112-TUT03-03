@@ -1,0 +1,2 @@
+model,inputs,train_records,test_records,test_events,training_c_index,full_test_c_index_remaining_years,full_test_c_index_risk_score,predictions_beyond_training_support
+Weibull AFT (improved),41,498875,171766,22396,0.7105086586086884,0.6276442052392025,0.6167581157186726,132178

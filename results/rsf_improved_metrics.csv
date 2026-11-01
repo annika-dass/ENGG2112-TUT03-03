@@ -1,0 +1,2 @@
+model,inputs,train_records,test_records,test_events,full_test_c_index_risk_score,median_estimable,median_unavailable,max_training_time_support
+Random Survival Forest (improved),40,498875,171766,22396,0.6178896130370836,49647,122119,28.0

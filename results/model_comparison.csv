@@ -1,0 +1,5 @@
+Model,Test C-index,Bridges evaluated,Observed events,Improvement over baseline,C-index target met,Improvement target met
+Age-only Cox PH,0.6210418513435446,119171,13677,0.0,False,False
+Weibull AFT,0.6293440111466168,119171,13677,0.00830215980307214,False,False
+Multivariable Cox PH,0.6260046584773227,119171,13677,0.004962807133778058,False,False
+Random Survival Forest,0.6505155724206065,119171,13677,0.02947372107706192,False,False

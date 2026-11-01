@@ -1,0 +1,3 @@
+model,predictor_count,training_cindex,historical_validation_cindex,validation_bridges,validation_events
+Original Cox PH,5,0.677563970794421,0.6068163087342537,178551,29369
+Improved Cox PH,7,0.6789109277635209,0.6084952952490182,178551,29369

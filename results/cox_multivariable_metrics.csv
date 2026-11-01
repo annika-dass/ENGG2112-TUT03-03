@@ -1,0 +1,2 @@
+model,training_c_index,testing_c_index,training_samples,testing_samples
+Multivariable Cox PH,0.6758686241313333,0.6178797910354082,498875,171766
